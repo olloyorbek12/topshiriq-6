@@ -1,0 +1,4 @@
+/* Clear default styles */
+* {
+  box-sizing: border-box;
+}
